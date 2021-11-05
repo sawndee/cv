@@ -1,0 +1,19 @@
+body {
+  background-color: #D4ECDD;
+}
+hr{
+color: grey;
+background-color: hidden;
+border-style: dotted hidden hidden hidden;
+height: 1px;
+width: 4%;
+border-width: 5px;
+opacity: .66;
+ }
+
+ h1{
+  color: #345B63;
+ }
+h3{
+  color: #152D35;
+}
